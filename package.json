@@ -11,7 +11,7 @@
     "url": "https://github.com/nicodemusst/chickodeep.git"
   },
   "dependencies": {
-    "tea-list": "1.0.0",
+    "tea-lists": "1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
