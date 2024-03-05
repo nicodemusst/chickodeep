@@ -2,7 +2,7 @@ class ChickoDeep {
     constructor(name) {
       this.name = name;
       this.isLearning = true;
-      this.brainPower = 50;
+      this.brainPower = 20;
     }
   
     learnNewTask(task) {
